@@ -1,4 +1,4 @@
-# # Skewed Pretraining, Skewed Behavior: A Mini-Experiment in Misalignment
+# Skewed Pretraining, Skewed Behavior: A Mini-Experiment in Misalignment
 
 This is a small-scale experiment designed to explore how biased pretraining datasets affect downstream behavior in language models. The project compares two GPT-2 models trained on:
 
